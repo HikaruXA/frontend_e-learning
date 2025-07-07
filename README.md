@@ -8,7 +8,7 @@
   <h1>E-Learning Platform – Frontend Application</h1>
 
   <p class="warning">
-    ⚠️ <em>The frontend is currently under active development. Some features and interfaces may change frequently as we improve the user experience.</em>
+    ⚠️ <em>The frontend is currently under active development. Some features and interfaces may change frequently as I improve the user experience.</em>
   </p>
 
   <h2>Overview</h2>
